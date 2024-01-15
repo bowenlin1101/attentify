@@ -2,17 +2,12 @@
 
 
 ## Pictures:
-<img src="![Screenshot 2023-11-26 040615](https://github.com/bowenlin1101/attentify/assets/94808336/70b6076f-6e04-4190-a96c-1255cc4fecd7)" width="100" />
-
-![Screenshot 2023-11-26 040803](https://github.com/bowenlin1101/attentify/assets/94808336/953836a4-9196-4351-a186-7e66da88979a)
-![Screenshot 2023-11-26 041053](https://github.com/bowenlin1101/attentify/assets/94808336/7207e5bd-f2e9-42b3-9182-e3e4d19c202f)
-
+<img src="https://github.com/bowenlin1101/attentify/assets/94808336/70b6076f-6e04-4190-a96c-1255cc4fecd7" width="33%" />
+<img src="https://github.com/bowenlin1101/attentify/assets/94808336/953836a4-9196-4351-a186-7e66da88979a" width="33%" />
+<img src="https://github.com/bowenlin1101/attentify/assets/94808336/7207e5bd-f2e9-42b3-9182-e3e4d19c202f" width="33%" />
 
 ## Inspiration
 One of our team members, Aiden, has ADHD. We were moved when he shared his perspective and story. So, we created this app to help people with ADHD track time effectively and be more productive. 🔥🌟
-
-We ran a reddit poll to ask the community what they struggled most with:
-![Screenshot 2023-11-25 145607](https://github.com/bowenlin1101/attentify/assets/94808336/5d8469ca-f669-452a-9c6a-62c224ec7118)
 
 ## What it does
 Attentify is a specialized productivity tool designed specifically for individuals with ADHD. It aims to assist them in managing their tasks and improving their focus and study habits. The core features of Attentify include:
