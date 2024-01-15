@@ -2,7 +2,8 @@
 
 
 ## Pictures:
-![Screenshot 2023-11-26 040615](https://github.com/bowenlin1101/attentify/assets/94808336/70b6076f-6e04-4190-a96c-1255cc4fecd7)
+<img src="![Screenshot 2023-11-26 040615](https://github.com/bowenlin1101/attentify/assets/94808336/70b6076f-6e04-4190-a96c-1255cc4fecd7)" width="100" />
+
 ![Screenshot 2023-11-26 040803](https://github.com/bowenlin1101/attentify/assets/94808336/953836a4-9196-4351-a186-7e66da88979a)
 ![Screenshot 2023-11-26 041053](https://github.com/bowenlin1101/attentify/assets/94808336/7207e5bd-f2e9-42b3-9182-e3e4d19c202f)
 
